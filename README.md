@@ -1,6 +1,6 @@
 **Financial Analytics on Infosys (3-Year IFRS Analysis)**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes the financial performance of Infosys Limited over a three-year period (FY2023–FY2025) using IFRS-based public financial statements.
 The objective is to evaluate growth, profitability, liquidity, and financial stability using modern analytics and visualization techniques.
